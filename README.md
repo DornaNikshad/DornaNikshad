@@ -1,21 +1,21 @@
 # Hi, I'm Dorna 👋
 I’m a data analytics enthusiast with a background in Business Analytics and Aerospace Engineering.  
-I love exploring data through Python, R, and SQL — using machine learning, visualization, and statistical modeling to uncover insights and help with decision-making.  
+I love exploring data through Python, R, and SQL, using machine learning, visualization, and statistical modeling to uncover insights and help with decision-making.  
 
-## 🧩 What I’m Working On
+## What I’m Working On
 - Predictive modeling projects on Kaggle
 - Data cleaning and feature engineering workflows in Python 
 - Business analytics dashboards with Power BI and Tableau  
  
-## 📚 Tech Stack
+## Tech Stack
 **Languages:** Python, R, SQL, Java, C++  
-**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Tidyverse  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Tidyverse, Causact  
 **Tools:** Tableau, Power BI, Snowflake, Databricks  
 
-## 🧠 Interests
+## Interests
 Machine learning · Pricing analytics · Bayesian inference · Web scraping
 
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/dornanikshad) | [Kaggle](https://www.kaggle.com/dornanikshad)
+Reach me at: [LinkedIn](https://linkedin.com/in/dornanikshad) | [Kaggle](https://www.kaggle.com/dornanikshad)
 
 
 <!--
